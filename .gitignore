@@ -20,6 +20,7 @@ pids
 *.seed
 
 # Android
+platforms
 android/playground/app/gradlew
 android/playground/app/gradlew.bat
 android/playground/app/gradle/wrapper/gradle-wrapper.jar
